@@ -1,0 +1,21 @@
+﻿# ---- Java/Build ----
+*.class
+*.log
+target/
+out/
+bin/
+build/
+dist/
+
+# ---- NetBeans (Ant/Gradle/Maven) ----
+nbproject/private/
+.nb-gradle/
+*.iml
+
+# ---- IDE ----
+.idea/
+.vscode/
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
